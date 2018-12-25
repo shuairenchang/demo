@@ -1,0 +1,7 @@
+#include <iostearm>
+using namespace std
+
+int main ()
+{
+cout<<"make a new file"<<endly;
+}
